@@ -1,5 +1,20 @@
 body{
-    text-align: center;
+    text-align: left;
     font-family: Arial, Helvetica, sans-serif;
-    color: hotpink;
+    color: #333;
+    font-size: 16px;
+}
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    border: 2px solid #43dc7b;
+    margin: 0 auto;
+
+}
+
+#container h1{
+    font-size: 20px;
+
 }
